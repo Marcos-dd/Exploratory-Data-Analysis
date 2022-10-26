@@ -11,7 +11,7 @@ otra gráfica por sector donde se muestra la evolución del número de empresas 
 Dichos ratios pueden ofrecer una simplificación suficiente para entender la evolución de los sectores y el impacto de las crisis sobre ellos.
 
 En esta versión Beta se estudia el ratio R16((Ingresos-Gastos)/Total de Activos) que se muestra como Rentabilidad y el R10(Ventas/Total de Activos) que se muestra 
-como Rendimiento. En esta versión vienen predefinidos para su estudio los siguientes sectores:
+como Rendimiento y vienen predefinidos para su estudio los siguientes sectores:
 
 # C26-> Fabricación de productos informáticos, electrónicos y ópticos
 # J -> Información y comunicaciones
