@@ -1,7 +1,7 @@
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
 import plotly.graph_objs as go
-import os
+
 import pandas as pd
 
 
@@ -66,8 +66,7 @@ def grafica_empresas(data_dict,sector,graphics_folder_path,dict_titles):
 # función para el cálculo de la Tasa de Variación Media (TVM)
 def calculo_tvm(TVM_rentabilidad_list,TVM_rendimiento_list,TVM_index,TVM_titulos,dict_titulos,sector,input_sector):
 
-    # os.chdir(sector_path)
-
+    
     ex = pd.read_excel(f'data\{input_sector}\{sector}_total.xlsx', index_col=0)
     ex_rentabilidad = ex['Cifra neta de negocios / Total activo']
     ex_rendimiento = ex['Resultado económico neto / Total activo']
