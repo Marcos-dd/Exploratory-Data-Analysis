@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-Local API to check the evolution of the economic sectors in Europe during the last 20 years
+Local API that shows on charts the EU economy evolution by sectors for the last 20 years
