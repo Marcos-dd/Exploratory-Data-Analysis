@@ -6,6 +6,10 @@ Con este EDA se pretende determinar si la **Automatización de Procesos** aporta
 
 ![image](https://user-images.githubusercontent.com/112617463/203609871-a2497092-2e43-42ca-90ca-dc293d91d456.png)
 
+**Para ver la presentación completa** -> https://github.com/Marcos-dd/Exploratory-Data-Analysis/blob/Default/Presentaci%C3%B3n%20EDA_10_2022_V.2.8.pdf   
+  
+**Para consultar la memoria** -> https://github.com/Marcos-dd/Exploratory-Data-Analysis/blob/Default/Memoria_EDA_11_2022.pdf     
+
 En esta presentación se estudian los datos extraídos a través del programa EMM.  
 https://github.com/Marcos-dd/EMM_Local_API
 
