@@ -10,7 +10,6 @@ Con este EDA se pretende determinar si la **Automatización de Procesos** aporta
   
 **Para consultar la memoria** -> https://github.com/Marcos-dd/Exploratory-Data-Analysis/blob/Default/Memoria_EDA_11_2022.pdf     
 
-En esta presentación se estudian los datos extraídos a través del programa EMM.  
-https://github.com/Marcos-dd/EMM_Local_API
+**Para la elaboración de esta presentación** he desarrollado un programa automatizado que se conecta a la web de Banco de España, descarga los datasets necesarios, los almacena y organiza en local, limpia los datos y crea las gráficas. Puedes encontrar el programa y toda la información necesaria en otro repo de mi GitHub -> https://github.com/Marcos-dd/EMM_Local_API
 
 
